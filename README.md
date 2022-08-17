@@ -1,2 +1,2 @@
-# linear Regression with or withot using SKLEARN library
+# linear Regression with or without using SKLEARN library
 
